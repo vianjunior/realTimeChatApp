@@ -1,0 +1,12 @@
+servidor/node_modules/**/*
+aplicacao/node_modules/**/*
+aplicacao/.expo/*
+aplicacao/npm-debug.*
+aplicacao/*.jks
+aplicacao/*.p8
+aplicacao/*.p12
+aplicacao/*.key
+aplicacao/*.mobileprovision
+aplicacao/*.orig.*
+aplicacao/web-build/
+aplicacao/web-report/
