@@ -1,4 +1,5 @@
 servidor/node_modules/**/*
+servidor/config/*
 aplicacao/node_modules/**/*
 aplicacao/.expo/*
 aplicacao/npm-debug.*
